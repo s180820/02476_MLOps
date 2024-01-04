@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+requirements.txt
+requirements_dev.txt
+cookie_ex/__init__.py
+cookie_ex/predict_model.py
+cookie_ex/train_model.py
+cookie_ex.egg-info/PKG-INFO
+cookie_ex.egg-info/SOURCES.txt
+cookie_ex.egg-info/dependency_links.txt
+cookie_ex.egg-info/requires.txt
+cookie_ex.egg-info/top_level.txt
